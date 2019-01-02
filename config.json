@@ -1,0 +1,11 @@
+{"host":"data.learninginventions.org",
+  "ip_host":"", /* ip server for custom dns */
+  "post_url":"https://data.learninginventions.org/update?", /* url to post data (This one >> LIL dataLogging ) */
+  "start_id":"1",
+  "end_id":"34",
+  "field_energy":"field1", /* set field for each value */
+  "field_current":"field3",
+  "field_err_count":"field1",
+  "field_err_channel":"field2",
+  "delay_time":"1"
+}
